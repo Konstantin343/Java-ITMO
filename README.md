@@ -1,5 +1,5 @@
 # Java-ITMO
-Some JAVA homeworks from Paradigms-courses.
+*Some JAVA homeworks from Paradigms-courses.*
 
 ### 1.Binary Search
 Binary search with programming by contract.
